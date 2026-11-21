@@ -10,3 +10,5 @@ btw im a student of meulabs the teachers forced me to write this
 | SS | 7 |
 | RST | 0 |
 | DIO0 | 1 |
+
+stm 32 is like hell 
