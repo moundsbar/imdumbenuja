@@ -12,3 +12,4 @@ btw im a student of meulabs the teachers forced me to write this
 | DIO0 | 1 |
 
 all the pins are as above 
+this is my firts project btw
